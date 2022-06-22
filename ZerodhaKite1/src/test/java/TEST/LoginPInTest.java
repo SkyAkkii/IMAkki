@@ -46,4 +46,10 @@ public class LoginPInTest extends BaseTest {
 	public void testNew () {
 		System.out.println("Akash");
 	}
+	public void test123() {
+		System.out.println("test");
+	}
+	
+	public void Tets212 () {
+		System.out.println("Akash 2.0");
 }
